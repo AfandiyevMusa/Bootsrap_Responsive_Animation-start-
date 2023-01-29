@@ -18,6 +18,7 @@
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     transition: 0.4s;
+    height: 100%;
 }
 
 .each-card .photo-part{
